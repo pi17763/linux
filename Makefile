@@ -3,7 +3,7 @@ VERSION = 6
 PATCHLEVEL = 9
 SUBLEVEL = 0
 EXTRAVERSION = -honami
-NAME = Hurr durr Honni Honami has lost his mind...
+NAME = Give the Linux kernel, else Honni Honami will lose his mind...
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
